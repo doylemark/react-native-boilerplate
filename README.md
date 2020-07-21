@@ -2,18 +2,10 @@
 
 #### Dependancies
 ```zsh
-  expo install react-native-redash 
-  react-native-reanimated
-  react-native-screens
-  @react-navigation/stack
-  @react-navigation/native
-  @react-native-community/masked-view
-  expo-asset
-  expo-constants
-  expo-font
+  expo install react-native-redash react-native-reanimated react-native-screens @react-navigation/stack @react-navigation/native @react-native-community/masked-view expo-asset expo-constants expo-font
 ```
   
-`yarn add eslint eslint-config-react-native-wcandillon`
+`yarn add eslint eslint-config-react-native-wcandillon --dev`
 
 #### tsconfig increased strictness
 ```json
